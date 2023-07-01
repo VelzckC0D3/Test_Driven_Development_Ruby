@@ -1,5 +1,5 @@
 # Fizz Buzz Test Driven Development
-
+A basic Ruby Fizz Buzz application following the TDD principles.
 
 ## Table of Contents
 
